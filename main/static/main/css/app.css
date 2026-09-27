@@ -1486,3 +1486,26 @@ footer {
         height: 350px;
     }
 }
+
+
+
+html,
+body,
+main,
+.description-section,
+.description {
+    background: #fff8f0 !important;
+    color-scheme: only light !important;
+}
+
+.description-text h2 {
+    color: #3e281f !important;
+}
+
+.description-text p {
+    color: #755a4d !important;
+}
+
+.section-number {
+    color: #fbd7d3 !important;
+}
