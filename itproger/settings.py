@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-zfd19vq30sq_^%*c$--_u5jxy1!@76!7f-r+$liqx$cqz($s02
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = [
+    "benny-bento.onrender.com",
+    "localhost",
+    "127.0.0.1",
+]
 
 
 # Application definition
